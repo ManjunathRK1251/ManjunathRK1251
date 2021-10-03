@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Manjunath R K <br>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Manjunath R K <br>
 ![](https://komarev.com/ghpvc/?username=ManjunathRK1251)
 <hr>
 - 🔭 I’m currently working on Flutter <br>
@@ -6,7 +6,7 @@
 - ⚡ Hobbies: Sketching, Photography and Photo Editting <br><br>
 
 
-<h3>📊 Github Stats </h3><br>
+<h3> <img src = "https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width = "20px" height = "15 px"> Github Stats </h3><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManjunathRK1251&theme=tokyonight)](https://git.io/streak-stats)
 

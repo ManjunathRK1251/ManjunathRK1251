@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Manjunath R K <br>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height = "20px">, I'm Manjunath R K <br>
 ![](https://komarev.com/ghpvc/?username=ManjunathRK1251)
 <hr>
 - 🔭 I’m currently working on Flutter <br>

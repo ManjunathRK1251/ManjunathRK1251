@@ -3,7 +3,7 @@
 <hr>
 - 🔭 I’m currently working on Flutter <br>
 - 🌱 I’m currently learning DSA and Web Development <br>
-- ⚡ Hobbies: Sketching, Photography and Photo Editting <br><br>
+- ⚡ Hobbies: Sketching, Photography and Photo Editing <br><br>
 
 
 <h3> <img src = "https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width = "20px" height = "15 px"> Github Stats </h3><br>

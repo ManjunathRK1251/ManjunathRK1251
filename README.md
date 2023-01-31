@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=ManjunathRK1251)
 <hr>
 - 🔭 I’m currently working on Flutter <br>
-- 🌱 I’m currently learning DSA and Web Development <br>
 - ⚡ Hobbies: Sketching, Photography and Photo Editing <br><br>
 
 
@@ -13,7 +12,10 @@
 [![Manjunath's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjunathRK1251&count_private=true&show_icons=true&theme=tokyonight&custom_title=Manjunath&nbsp;R&nbsp;K’s&nbsp;Github&nbsp;stats)
 ](https://github.com/anuraghazra/github-readme-stats)
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,dart,flutter,figma,git,github,java,html,css,js,ai,androidstudio)](https://skillicons.dev)
 
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathRK1251&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
